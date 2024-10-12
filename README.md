@@ -21,7 +21,7 @@
 
     - **GH_TOKEN:** The GitHub token generated above.
 
-4. Go to the **Actions** tab of your fork and click the "enable" button
+4. Go to the **Actions** tab of your fork and click the "enable" button.
 5. Edit the environment variables at the end of the file `.github/workflows/run.yml`
 
     - **GIST_ID:** The ID portion from your gist url: `https://gist.github.com/bokub/`**`1cc900d92b9acc15786d7553b46a2cdf`**.
